@@ -72,9 +72,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>only TP</th>
-      <th>only PS</th>
-      <th>only RR</th>
+      <th>only $T_P$</th>
+      <th>only $PS$</th>
+      <th>only $RR$</th>
     </tr>
   </thread>
   <tbody>
@@ -90,9 +90,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>w/o TP</th>
-      <th>w/o PS</th>
-      <th>w/o RR</th>
+      <th>w/o $T_P$</th>
+      <th>w/o $PS$</th>
+      <th>w/o $RR$</th>
     </tr>
   </thread>
   <tbody>
@@ -144,9 +144,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>only TP</th>
-      <th>only PS</th>
-      <th>only RR</th>
+      <th>only $T_P$</th>
+      <th>only $PS$</th>
+      <th>only $RR$</th>
     </tr>
   </thread>
   <tbody>
@@ -162,9 +162,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>w/o TP</th>
-      <th>w/o PS</th>
-      <th>w/o RR</th>
+      <th>w/o $T_P$</th>
+      <th>w/o $PS$</th>
+      <th>w/o $RR$</th>
     </tr>
   </thread>
   <tbody>
@@ -216,9 +216,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>only TP</th>
-      <th>only PS</th>
-      <th>only RR</th>
+      <th>only $T_P$</th>
+      <th>only $PS$</th>
+      <th>only $RR$</th>
     </tr>
   </thread>
   <tbody>
@@ -234,9 +234,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>w/o TP</th>
-      <th>w/o PS</th>
-      <th>w/o RR</th>
+      <th>w/o $T_P$</th>
+      <th>w/o $PS$</th>
+      <th>w/o $RR$</th>
     </tr>
   </thread>
   <tbody>
