@@ -24,7 +24,7 @@ Here, we show the original speech, the target singing, and the results produced 
     <tr>
       <td>wavs</td>
       <td><audio controls src="wavs/speech-2.wav" style="width: 70px;"></audio></td>
-      <td><audio controls src="wavs/sing-2.wav" style="width: 70px;"></audio></td>
+      <td><audio controls src="wavs/sing-2.wav"></audio></td>
     </tr>
   </tbody>
 </table>
