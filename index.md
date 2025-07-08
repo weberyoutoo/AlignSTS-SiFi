@@ -1,3 +1,29 @@
+---
+title: STS Demo Page
+layout: default
+---
+
+<style>
+.main-content {
+  max-width: 90%;
+  width: 90%;
+  margin: auto;
+}
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+table th, table td {
+  word-wrap: break-word;
+  font-size: 0.9em;
+  text-align: center;
+}
+audio {
+  width: 100%;
+  max-width: 160px;
+}
+</style>
+
 # <center>Self-supervised Learning Speech-to-Singing Conversion Based on Information Perturbation Techniques</center>
 
 <center>Wei-Hsuan Kao and Von-Wun Soo</center>
