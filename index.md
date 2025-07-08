@@ -20,7 +20,7 @@ table th, table td {
 }
 audio {
   width: 100%;
-  max-width: 200px;
+  max-width: 500px;
 }
 </style>
 
