@@ -1,8 +1,3 @@
---
-title: STS Demo Page
-layout: default
----
-
 <style>
 .main-content {
   max-width: 90%;
