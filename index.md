@@ -33,8 +33,7 @@ audio {
 
 ## Main results
 
-### 1. 
-you're giving me a million reasons to let you go you're giving me a million reasons to quit the show 
+**1. you're giving me a million reasons to let you go you're giving me a million reasons to quit the show**
 <table>
   <thread>
     <tr>
@@ -73,8 +72,7 @@ you're giving me a million reasons to let you go you're giving me a million reas
   </tbody>
 </table>
 
-### 2. 
-there's a fire starting in my heart reaching a fever pitch and bringing me out the dark 
+**2. there's a fire starting in my heart reaching a fever pitch and bringing me out the dark**
 <table>
   <thread>
     <tr>
@@ -113,8 +111,7 @@ there's a fire starting in my heart reaching a fever pitch and bringing me out t
   </tbody>
 </table>
 
-### 3. 
-love me like you do lo lo love me like you do touch me like you do to to touch me like you do what are you waiting for 
+**3. love me like you do lo lo love me like you do touch me like you do to to touch me like you do what are you waiting for**
 <table>
   <thread>
     <tr>
