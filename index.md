@@ -63,7 +63,7 @@ audio {
     <tr>
       <td>wavs</td>
       <td><audio controls src="wavs/all-perturb-2.wav"></audio></td>
-      <td><audio controls src="wavs/no_perturb-2.wav"></audio></td>
+      <td><audio controls src="wavs/no-perturb-2.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -135,7 +135,7 @@ audio {
     <tr>
       <td>wavs</td>
       <td><audio controls src="wavs/all-perturb-8.wav"></audio></td>
-      <td><audio controls src="wavs/no_perturb-8.wav"></audio></td>
+      <td><audio controls src="wavs/no-perturb-8.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -207,7 +207,7 @@ audio {
     <tr>
       <td>wavs</td>
       <td><audio controls src="wavs/all-perturb-10.wav"></audio></td>
-      <td><audio controls src="wavs/no_perturb-10.wav"></audio></td>
+      <td><audio controls src="wavs/no-perturb-10.wav"></audio></td>
     </tr>
   </tbody>
 </table>
