@@ -1,13 +1,3 @@
-<style>
-  table.small {
-    font-size: 0.9em;
-    width: 80%;
-  }
-  table.small td audio {
-    width: 70px;
-  }
-</style>
-
 # <center>Self-supervised Learning Speech-to-Singing Conversion Based on Information Perturbation Techniques</center>
 
 <center>Wei-Hsuan Kao and Von-Wun Soo</center>
@@ -33,8 +23,8 @@ Here, we show the original speech, the target singing, and the results produced 
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/speech-2.wav"></audio></td>
-      <td><audio controls src="wavs/sing-2.wav"></audio></td>
+      <td><audio controls src="wavs/speech-2.wav" style="width: 70px;></audio></td>
+      <td><audio controls src="wavs/sing-2.wav" style="width: 70px;></audio></td>
     </tr>
   </tbody>
 </table>
