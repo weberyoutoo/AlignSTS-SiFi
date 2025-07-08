@@ -23,8 +23,8 @@ Here, we show the original speech, the target singing, and the results produced 
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/speech-2.wav" style="width: 150px;"></audio></td>
-      <td><audio controls src="wavs/sing-2.wav" style="width: 150px;"></audio></td>
+      <td><audio controls src="wavs/speech-2.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/sing-2.wav" style="width: 200px;"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -42,10 +42,10 @@ Here, we show the original speech, the target singing, and the results produced 
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/GT mel-2.wav" style="width: 150px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-2.wav" style="width: 150px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SVPT-2.wav" style="width: 150px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SiFi-2.wav" style="width: 150px;"></audio></td>
+      <td><audio controls src="wavs/GT mel-2.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-2.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SVPT-2.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-2.wav" style="width: 200px;"></audio></td>
     </tr>
   </tbody>
 </table>
