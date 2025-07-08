@@ -17,7 +17,7 @@ table th, table td {
   word-wrap: break-word;
   font-size: 0.9em;
   text-align: center;
-  min-width: 120px;
+  min-width: 200px;
   padding: 8px;
 }
 audio {
