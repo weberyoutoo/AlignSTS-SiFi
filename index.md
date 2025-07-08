@@ -37,6 +37,23 @@ audio {
 <table>
   <thread>
     <tr>
+      <th>source</th>
+      <th>Speech</th>
+      <th>Singing</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/speech-2.wav"></audio></td>
+      <td><audio controls src="wavs/sing-2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
       <th>perturbations</th>
       <th>All perturb</th>
       <th>NO perturb</th>
@@ -46,7 +63,7 @@ audio {
     <tr>
       <td>wavs</td>
       <td><audio controls src="wavs/all-perturb-2.wav"></audio></td>
-      <td><audio controls src="wavs/no-perturb-2.wav"></audio></td>
+      <td><audio controls src="wavs/no_perturb-2.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -84,6 +101,150 @@ audio {
       <td><audio controls src="wavs/AlignSTS-SiFi-2.wav"></audio></td>
       <td><audio controls src="wavs/wo-PS-2.wav"></audio></td>
       <td><audio controls src="wavs/wo-RR-2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+**2. there's a fire starting in my heart reaching a fever pitch and bringing me out the dark**
+<table>
+  <thread>
+    <tr>
+      <th>source</th>
+      <th>Speech</th>
+      <th>Singing</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/speech-8.wav"></audio></td>
+      <td><audio controls src="wavs/sing-8.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>All perturb</th>
+      <th>NO perturb</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/all-perturb-8.wav"></audio></td>
+      <td><audio controls src="wavs/no_perturb-8.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>only TP</th>
+      <th>only PS</th>
+      <th>only RR</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/only-tp-8.wav"></audio></td>
+      <td><audio controls src="wavs/only-PS-8.wav"></audio></td>
+      <td><audio controls src="wavs/only-RR-8.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>w/o TP</th>
+      <th>w/o PS</th>
+      <th>w/o RR</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-8.wav"></audio></td>
+      <td><audio controls src="wavs/wo-PS-8.wav"></audio></td>
+      <td><audio controls src="wavs/wo-RR-8.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+**3. love me like you do lo lo love me like you do touch me like you do to to touch me like you do what are you waiting for**
+<table>
+  <thread>
+    <tr>
+      <th>source</th>
+      <th>Speech</th>
+      <th>Singing</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/speech-10.wav"></audio></td>
+      <td><audio controls src="wavs/sing-10.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>All perturb</th>
+      <th>NO perturb</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/all-perturb-10.wav"></audio></td>
+      <td><audio controls src="wavs/no_perturb-10.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>only TP</th>
+      <th>only PS</th>
+      <th>only RR</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/only-tp-10.wav"></audio></td>
+      <td><audio controls src="wavs/only-PS-10.wav"></audio></td>
+      <td><audio controls src="wavs/only-RR-10.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>w/o TP</th>
+      <th>w/o PS</th>
+      <th>w/o RR</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-10.wav"></audio></td>
+      <td><audio controls src="wavs/wo-PS-10.wav"></audio></td>
+      <td><audio controls src="wavs/wo-RR-10.wav"></audio></td>
     </tr>
   </tbody>
 </table>
