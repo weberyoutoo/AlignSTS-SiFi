@@ -31,6 +31,7 @@ audio {
 
 ## Speech-to-Singing conversion samples
 
+<!-- ===================================================Comparative analysis=================================================== -->
 ## Comparative analysis
 
 **1. you're giving me a million reasons to let you go you're giving me a million reasons to quit the show**
@@ -72,9 +73,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>only $T_P$</th>
-      <th>only $PS$</th>
-      <th>only $RR$</th>
+      <th>only TP</th>
+      <th>only PS</th>
+      <th>only RR</th>
     </tr>
   </thread>
   <tbody>
@@ -90,9 +91,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>w/o $T_P$</th>
-      <th>w/o $PS$</th>
-      <th>w/o $RR$</th>
+      <th>w/o TP</th>
+      <th>w/o PS</th>
+      <th>w/o RR</th>
     </tr>
   </thread>
   <tbody>
@@ -144,9 +145,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>only $T_P$</th>
-      <th>only $PS$</th>
-      <th>only $RR$</th>
+      <th>only TP</th>
+      <th>only PS</th>
+      <th>only RR</th>
     </tr>
   </thread>
   <tbody>
@@ -162,9 +163,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>w/o $T_P$</th>
-      <th>w/o $PS$</th>
-      <th>w/o $RR$</th>
+      <th>w/o TP</th>
+      <th>w/o PS</th>
+      <th>w/o RR</th>
     </tr>
   </thread>
   <tbody>
@@ -216,9 +217,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>only $T_P$</th>
-      <th>only $PS$</th>
-      <th>only $RR$</th>
+      <th>only TP</th>
+      <th>only PS</th>
+      <th>only RR</th>
     </tr>
   </thread>
   <tbody>
@@ -234,9 +235,9 @@ audio {
   <thread>
     <tr>
       <th>perturbations</th>
-      <th>w/o $T_P$</th>
-      <th>w/o $PS$</th>
-      <th>w/o $RR$</th>
+      <th>w/o TP</th>
+      <th>w/o PS</th>
+      <th>w/o RR</th>
     </tr>
   </thread>
   <tbody>
@@ -249,7 +250,13 @@ audio {
   </tbody>
 </table>
 
+<!-- ===================================================Main results=================================================== -->
 ## Main results
+- **GT Mel:**  We convert the ground truth audio into Mel-spectrogram, and use HiFi-GAN to re-synthesis it back to audio. 
+- **AlignSTS:** The supervised STS model which is trained on pairwise speech-singing data of GT-English.
+- **AlignSTS-unpaired:** A rough self-supervised STS model, in which the AlignSTS model is trained using non-pairwise data **without** any perturbation.
+- **AlignSTS-SVPT:** A self-supervised STS model that is similar to our framework but uses the information perturbation techniques proposed by [SVPT](https://speech2sing.github.io/).
+- **AlignSTS-SiFi:** The self-supervised STS model proposed in this paper, which incorporates the AlignSTS architecture with SiFi-GAN-based information perturbations.
 
 **1. you're giving me a million reasons to let you go you're giving me a million reasons to quit the show**
 <table>
