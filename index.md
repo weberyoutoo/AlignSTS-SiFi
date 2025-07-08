@@ -12,12 +12,12 @@ table th, table td {
   word-wrap: break-word;
   font-size: 0.9em;
   text-align: center;
-  min-width: 200px;
+  min-width: 300px;
   padding: 8px;
 }
 audio {
   width: 100%;
-  max-width: 200px;
+  max-width: 300px;
 }
 </style>
 
