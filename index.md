@@ -12,7 +12,7 @@
 
 ### 1. 
 you're giving me a million reasons to let you go you're giving me a million reasons to quit the show 
-<table class="small">
+<table>
   <thread>
     <tr>
       <th>source</th>
@@ -29,7 +29,7 @@ you're giving me a million reasons to let you go you're giving me a million reas
   </tbody>
 </table>
 
-<table class="small">
+<table>
   <thread>
     <tr>
       <th>source</th>
@@ -46,6 +46,86 @@ you're giving me a million reasons to let you go you're giving me a million reas
       <td><audio controls src="wavs/AlignSTS-2.wav" style="width: 200px;"></audio></td>
       <td><audio controls src="wavs/AlignSTS-SVPT-2.wav" style="width: 200px;"></audio></td>
       <td><audio controls src="wavs/AlignSTS-SiFi-2.wav" style="width: 200px;"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+### 2. 
+there's a fire starting in my heart reaching a fever pitch and bringing me out the dark 
+<table>
+  <thread>
+    <tr>
+      <th>source</th>
+      <th>Speech</th>
+      <th>Singing</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/speech-8.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/sing-8.wav" style="width: 200px;"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
+      <th>source</th>
+      <th>GT mel</th>
+      <th>AlignSTS</th>
+      <th>AlignSTS-SVPT</th>
+      <th>AlignSTS-SiFi</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/GT mel-8.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-8.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SVPT-8.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-8.wav" style="width: 200px;"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+### 3. 
+love me like you do lo lo love me like you do touch me like you do to to touch me like you do what are you waiting for 
+<table>
+  <thread>
+    <tr>
+      <th>source</th>
+      <th>Speech</th>
+      <th>Singing</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/speech-10.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/sing-10.wav" style="width: 200px;"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
+      <th>source</th>
+      <th>GT mel</th>
+      <th>AlignSTS</th>
+      <th>AlignSTS-SVPT</th>
+      <th>AlignSTS-SiFi</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/GT mel-10.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-10.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SVPT-10.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-10.wav" style="width: 200px;"></audio></td>
     </tr>
   </tbody>
 </table>
