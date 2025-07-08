@@ -4,7 +4,7 @@
     width: 80%;
   }
   table.small td audio {
-    width: 150px;
+    width: 70px;
   }
 </style>
 
