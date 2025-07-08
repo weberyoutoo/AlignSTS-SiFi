@@ -12,7 +12,7 @@
 Here, we show the original speech, the target singing, and the results produced by each model.
 
 #### 1. 
-<table>
+<table style="width: 100%">
   <thread>
     <tr>
       <th>source</th>
@@ -29,7 +29,7 @@ Here, we show the original speech, the target singing, and the results produced 
   </tbody>
 </table>
 
-<table>
+<table style="width: 100%">
   <thread>
     <tr>
       <th>source</th>
