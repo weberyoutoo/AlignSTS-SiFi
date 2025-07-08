@@ -29,7 +29,23 @@ Here, we show the original speech, the target singing, and the results produced 
   </tbody>
 </table>
 
-
-|source| GT mel                                         | AlignSTS | AlignSTS-SVPT | AlignSTS-SiFi |
-|---|------------------------------------------------|-------|---|---|
-|wav|<audio controls src="wavs/GT mel-2.wav"></audio>|<audio controls src="wavs/AlignSTS-2.wav"></audio>|<audio controls src="wavs/AlignSTS-SVPT-2.wav"></audio>|<audio controls src="wavs/AlignSTS-SiFi-2.wav"></audio>|
+<table>
+  <thread>
+    <tr>
+      <th>source</th>
+      <th>GT mel</th>
+      <th>AlignSTS</th>
+      <th>AlignSTS-SVPT</th>
+      <th>AlignSTS-SiFi</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/GT mel-2.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-2.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SVPT-2.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
