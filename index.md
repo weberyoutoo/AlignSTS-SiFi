@@ -1,4 +1,4 @@
----
+--
 title: STS Demo Page
 layout: default
 ---
@@ -17,6 +17,8 @@ table th, table td {
   word-wrap: break-word;
   font-size: 0.9em;
   text-align: center;
+  min-width: 120px;
+  padding: 8px;
 }
 audio {
   width: 100%;
