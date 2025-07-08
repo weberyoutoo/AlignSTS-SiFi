@@ -31,6 +31,63 @@ audio {
 
 ## Speech-to-Singing conversion samples
 
+## Comparative analysis
+
+**1. you're giving me a million reasons to let you go you're giving me a million reasons to quit the show**
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>All perturb</th>
+      <th>NO perturb</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/all-perturb-2.wav"></audio></td>
+      <td><audio controls src="wavs/no-perturb-2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>only TP</th>
+      <th>only PS</th>
+      <th>only RR</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/only-tp-2.wav"></audio></td>
+      <td><audio controls src="wavs/only-PS-2.wav"></audio></td>
+      <td><audio controls src="wavs/only-RR-2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thread>
+    <tr>
+      <th>perturbations</th>
+      <th>w/o TP</th>
+      <th>w/o PS</th>
+      <th>w/o RR</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <td>wavs</td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-2.wav"></audio></td>
+      <td><audio controls src="wavs/wo-PS-2.wav"></audio></td>
+      <td><audio controls src="wavs/wo-RR-2.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Main results
 
 **1. you're giving me a million reasons to let you go you're giving me a million reasons to quit the show**
