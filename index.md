@@ -20,7 +20,7 @@ table th, table td {
 }
 audio {
   width: 100%;
-  max-width: 160px;
+  max-width: 200px;
 }
 </style>
 
@@ -49,8 +49,8 @@ you're giving me a million reasons to let you go you're giving me a million reas
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/speech-2.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/sing-2.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/speech-2.wav"></audio></td>
+      <td><audio controls src="wavs/sing-2.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -68,10 +68,10 @@ you're giving me a million reasons to let you go you're giving me a million reas
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/GT mel-2.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-2.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SVPT-2.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SiFi-2.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/GT mel-2.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-2.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SVPT-2.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-2.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -89,8 +89,8 @@ there's a fire starting in my heart reaching a fever pitch and bringing me out t
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/speech-8.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/sing-8.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/speech-8.wav"></audio></td>
+      <td><audio controls src="wavs/sing-8.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -108,10 +108,10 @@ there's a fire starting in my heart reaching a fever pitch and bringing me out t
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/GT mel-8.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-8.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SVPT-8.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SiFi-8.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/GT mel-8.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-8.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SVPT-8.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-8.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -129,8 +129,8 @@ love me like you do lo lo love me like you do touch me like you do to to touch m
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/speech-10.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/sing-10.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/speech-10.wav"></audio></td>
+      <td><audio controls src="wavs/sing-10.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -148,10 +148,10 @@ love me like you do lo lo love me like you do touch me like you do to to touch m
   <tbody>
     <tr>
       <td>wavs</td>
-      <td><audio controls src="wavs/GT mel-10.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-10.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SVPT-10.wav" style="width: 200px;"></audio></td>
-      <td><audio controls src="wavs/AlignSTS-SiFi-10.wav" style="width: 200px;"></audio></td>
+      <td><audio controls src="wavs/GT mel-10.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-10.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SVPT-10.wav"></audio></td>
+      <td><audio controls src="wavs/AlignSTS-SiFi-10.wav"></audio></td>
     </tr>
   </tbody>
 </table>
